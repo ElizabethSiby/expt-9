@@ -50,15 +50,15 @@ public class student {
 /*  
 Enter How Many Student : 2
         Details of Student 1
-Enter Roll No: 101
-Enter Name: Akku
-Enter CGPA: 9
+Enter Roll No: 1
+Enter Name: Aleena
+Enter CGPA: 8
         Details of Student 2
-Enter Roll No: 102
-Enter Name: Addu
-Enter CGPA: 6
+Enter Roll No: 2
+Enter Name: Miya
+Enter CGPA: 5
          Students who have CGPA greater than 7
-Roll no : 101    Name : Akku     CGPA : 9.0
+Roll no : 1    Name : Aleena     CGPA : 8.0
 Click 1 to clear the table or else click 0 to continue
 0
 */
